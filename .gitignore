@@ -1,0 +1,11 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000000000000000000000000000000000000..831869da5e1325c57b4013587d53be77f73a06b7
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,5 @@
++node_modules
++.env*
++npm-debug.log*
++yarn-error.log
++.vercel
