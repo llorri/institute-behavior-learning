@@ -1,6 +1,6 @@
 {
   "name": "institute-backend-minimal",
-  "version": "1.0.0", 
+  "version": "1.0.0",
   "description": "Minimal backend for Institute for Behavior and Learning",
   "main": "server-minimal.js",
   "scripts": {
