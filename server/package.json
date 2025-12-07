@@ -1,10 +1,10 @@
 {
   "name": "institute-backend-working",
-  "version": "1.0.0", 
-  "description": "Working backend for Institute for Behavior and Learning",
-  "main": "server-working.js",
+  "version": "1.0.0",
+  "description": "Backend for Institute for Behavior and Learning",
+  "main": "server.js",
   "scripts": {
-    "start": "node server-working.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2"
