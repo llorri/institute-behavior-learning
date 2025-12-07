@@ -1,4 +1,3 @@
-# Mirrored from root .gitignore so local edits stay consistent
 node_modules
 .env*
 npm-debug.log*
